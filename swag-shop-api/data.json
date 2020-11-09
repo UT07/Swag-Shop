@@ -1,0 +1,4 @@
+db.products.insert({"price":1199,"title":"iPhone 12 pro max","imgUrl":"https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg"})
+db.products.insert({"price":799,"title":"OnePlus 8 Pro","imgUrl":"https://cdn.shopify.com/s/files/1/2089/6571/products/8pro_03_4f969058-4635-4b71-a5ec-8a232168d291_grande.jpg?v=1588141472"})
+db.products.insert({"price":1649.99,"title":"MSI GS66 Stealth","imgUrl":"https://storage-asset.msi.com/global/picture/image/feature/nb/gs/GS66/gpu-1.png"})
+db.products.insert({"price":2799,"title":"Macbook Pro","imgUrl":"https://i.pcmag.com/imagery/reviews/038Dr5TVEpwIv8rCljx6UcF-13..1588802180.jpg"})
