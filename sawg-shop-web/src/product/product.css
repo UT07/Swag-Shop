@@ -1,0 +1,10 @@
+.product{
+  display: block;
+  max-width:15rem;
+  margin: 25px;
+  padding-bottom: 10px;
+  height:auto;
+}
+.product img{
+  max-height: 10rem; 
+}
