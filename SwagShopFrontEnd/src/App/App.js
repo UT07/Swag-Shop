@@ -36,7 +36,6 @@ class App extends Component {
             <header className="App-header">
                   <img src={logo} className="App-logo" alt="logo" />
                   <h1 className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer"> Welcome to Swag Shop </h1>
-                  <SearchPage />
                 </header> 
                 <div className="App-main">
                   <div className="container-fluid App-main">
